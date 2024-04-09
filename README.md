@@ -1,9 +1,9 @@
 #  API for Google Sheets
-O código foi feito no Google Colab, com a biblioteca gspread importada, para vincular o código ao Google Sheet ( Google Planilha)
+O código foi feito no Google Colab usando a linguagem Python e com a biblioteca gspread importada, para vincular o código ao Google Sheet ( Google Planilha) <br>
+Este Código foi o primeiro que fiz após aprender os conceitos básicos de python. <br>
+Usado no terminal do Google Colab
 * Documentação do gspread: https://docs.gspread.org/en/v6.0.0/
 <br>
-É necessário criar uma planilha no Google Sheet, de acordo com os nomes que estão no código
-
 <br>
 
 # COMANDOS INICIAIS
